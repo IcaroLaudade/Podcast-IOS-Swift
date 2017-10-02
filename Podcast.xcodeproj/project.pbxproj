@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9B77B3081F81B94700F7BEB3 /* Teste.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B77B3071F81B94700F7BEB3 /* Teste.swift */; };
 		9BEE74EC1F7E85B600B1EA3E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BEE74EB1F7E85B600B1EA3E /* AppDelegate.swift */; };
 		9BEE74EE1F7E85B600B1EA3E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BEE74ED1F7E85B600B1EA3E /* ViewController.swift */; };
 		9BEE74F11F7E85B600B1EA3E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BEE74EF1F7E85B600B1EA3E /* Main.storyboard */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9B77B3071F81B94700F7BEB3 /* Teste.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Teste.swift; sourceTree = "<group>"; };
 		9BEE74E81F7E85B600B1EA3E /* Podcast.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Podcast.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BEE74EB1F7E85B600B1EA3E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9BEE74ED1F7E85B600B1EA3E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 			children = (
 				9BEE75011F7E930600B1EA3E /* Podcast.swift */,
 				9BEE75031F7E931500B1EA3E /* PodcastDAO.swift */,
+				9B77B3071F81B94700F7BEB3 /* Teste.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 			files = (
 				9BEEBDA91F800FAB00CA795E /* PodcastTable.swift in Sources */,
 				9BEE74EE1F7E85B600B1EA3E /* ViewController.swift in Sources */,
+				9B77B3081F81B94700F7BEB3 /* Teste.swift in Sources */,
 				9BEE75041F7E931500B1EA3E /* PodcastDAO.swift in Sources */,
 				9BEE74EC1F7E85B600B1EA3E /* AppDelegate.swift in Sources */,
 				9BEE75021F7E930600B1EA3E /* Podcast.swift in Sources */,
